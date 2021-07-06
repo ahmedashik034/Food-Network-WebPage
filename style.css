@@ -39,7 +39,7 @@ h1{
 
    
     padding-left: 50px;
-    background-image:url(images/shapes/Frame57.jpg);
+    background-image:url(Images/shapes/Frame57.jpg);
    background-size: cover;
    display: flex;
 }
@@ -47,7 +47,7 @@ h1{
     color:#8c9f24;
 }
 section.about-section {
-    background-image: url(images/shapes/Frame58.jpg);
+    background-image: url(Images/shapes/Frame58.jpg);
     background-size: cover;
     display: flex;
 }
@@ -68,7 +68,7 @@ section.about-section {
     text-decoration: none;
 }
 .recipies-section{
-    background-image: url(images/shapes/Frame59.jpg);
+    background-image: url(Images/shapes/Frame59.jpg);
     background-size: cover;
     padding-bottom: 100px;
 }
